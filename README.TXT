@@ -25,7 +25,5 @@ DQ風　地名ジェネレータ	1.0
 ６．その他
 
 
-@author Dra
-    mailto: d0211@live.jp
 
-Copyright (c) 2016 Dra211 All rights reserved.
+Copyright (c) 2016 Shiacho All rights reserved.
