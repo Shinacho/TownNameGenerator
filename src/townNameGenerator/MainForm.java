@@ -38,7 +38,7 @@ import javax.swing.filechooser.FileFilter;
 
 /**
  * ツールを表示するメインのフォーム.
- * @author Dra
+ * @author Shinacho
  */
 public class MainForm extends javax.swing.JFrame {
 

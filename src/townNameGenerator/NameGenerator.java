@@ -30,7 +30,7 @@ import java.util.Random;
  * <br>
  *
  * @version 1.0.0 - 2016/05/11<br>
- * @author Dra<br>
+ * @author Shinacho<br>
  * <br>
  */
 public class NameGenerator {
